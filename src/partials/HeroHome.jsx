@@ -52,7 +52,7 @@ function HeroHome() {
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-orange-400">
                 No Code
               </span>
-              <span> The first IRL Money Minecraft Casino</span>
+              <span>Host your Minecraft server</span>
             </h1>
             <div className="max-w-3xl mx-auto">
               <p
