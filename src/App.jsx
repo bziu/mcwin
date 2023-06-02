@@ -37,9 +37,9 @@ function App() {
     <>
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route path="/signin" element={<SignIn />} />
-        <Route path="/signup" element={<SignUp />} />
-        <Route path="/reset-password" element={<ResetPassword />} />
+        <Route path="https://manage.retronodes.xyz/login" element={<SignIn />} />
+        <Route path="https://manage.retronodes.xyz/register" element={<SignUp />} />
+        <Route path="https://manage.retronodes.xyz/password/reset" element={<ResetPassword />} />
       </Routes>
     </>
   );
